@@ -1,3 +1,21 @@
+<!-- SONOXO_FORK_STATUS_START -->
+<div align="center">
+
+![Sonoxo fork — learning lab](https://img.shields.io/badge/SONOXO%20FORK-LEARNING%20LAB-7c3aed?style=for-the-badge)
+
+### Fork status — upstream project preserved
+
+This repository is a learning-lab fork of [`palantir/tslint`](https://github.com/palantir/tslint). The underlying project, product name, documentation, code, trademarks, and license belong to their upstream maintainers and contributors. **Sonoxo did not author or endorse the upstream project.** Check upstream before relying on this fork for releases, security updates, support, or current documentation.
+
+<sub>UPSTREAM SOURCE → FORK STUDY COPY → LOCAL EXPERIMENTS</sub>
+
+</div>
+
+> **Upstream README begins below unchanged.**
+
+---
+<!-- SONOXO_FORK_STATUS_END -->
+
 [![NPM version](https://badge.fury.io/js/tslint.svg)](https://badge.fury.io/js/tslint)
 [![Downloads](https://img.shields.io/npm/dm/tslint.svg)](https://npmjs.org/package/tslint)
 [![Dependency Status](https://david-dm.org/palantir/tslint.svg)](https://david-dm.org/palantir/tslint)
